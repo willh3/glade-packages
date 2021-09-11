@@ -1,2 +1,3 @@
 all:
+	pwd
 	@echo "yeah"
