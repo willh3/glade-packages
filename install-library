@@ -1,0 +1,3 @@
+#!/bin/sh
+mkdir -p ~/.local/share/glade/lib/so
+cp lib$1.so ~/.local/share/glade/lib/so
