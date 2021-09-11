@@ -1,4 +1,4 @@
-#include "../lib/glade.h"
+#include "../lib/h/glade/glade.h"
 
 #include <iostream>
 
