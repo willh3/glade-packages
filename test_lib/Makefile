@@ -1,3 +1,3 @@
 all:
-	cd ..; cd lib; pwd
+	pwd
 	@echo "yeah"
