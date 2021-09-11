@@ -1,2 +1,2 @@
 all:
-  @echo "yeah"
+	@echo "yeah"
